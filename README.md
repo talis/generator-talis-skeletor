@@ -1,6 +1,6 @@
-# generator-talis-skeletor [![Build Status](https://secure.travis-ci.org/talis/generator-talis-skeletor.png?branch=master)](https://travis-ci.org/talis/generator-talis-skeletor)
+# generator-talis-skeletor 
 
-> [Yeoman](http://yeoman.io) generator
+> [Yeoman](http://yeoman.io) generator for scaffolding applications built with Talis Primitives
 
 
 ## Getting Started
